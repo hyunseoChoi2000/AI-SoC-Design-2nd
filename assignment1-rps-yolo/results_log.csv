@@ -1,0 +1,13 @@
+timestamp,result,p1_class,p2_class,p1_score,draw_score,p2_score,image_path
+20260917_124248,P1 WIN,rock,scissors,1,0,0,captures/20260917_124248_P1_WIN.jpg
+20260917_163821,P2 WIN,scissors,rock,0,0,1,captures/20260917_163821_P2_WIN.jpg
+20260917_164616,P1 WIN,rock,scissors,1,0,0,captures/20260917_164616_P1_WIN.jpg
+20260918_101408,DRAW,scissors,scissors,0,1,0,captures/20260918_101408_DRAW.jpg
+20260918_103619,P1 WIN,scissors,paper,1,0,0,captures/20260918_103619_P1_WIN.jpg
+20260918_110517,P2 WIN,scissors,rock,0,0,1,captures/20260918_110517_P2_WIN.jpg
+20260918_111411,P2 WIN,scissors,rock,0,0,1,captures/20260918_111411_P2_WIN.jpg
+20260918_111814,P1 WIN,scissors,paper,1,0,0,captures/20260918_111814_P1_WIN.jpg
+20260918_111912,P1 WIN,scissors,paper,2,0,0,captures/20260918_111912_P1_WIN.jpg
+20260918_112115,P2 WIN,scissors,rock,0,0,1,captures/20260918_112115_P2_WIN.jpg
+20260918_112151,P1 WIN,paper,rock,1,0,1,captures/20260918_112151_P1_WIN.jpg
+20260918_112232,P2 WIN,paper,scissors,1,0,2,captures/20260918_112232_P2_WIN.jpg
